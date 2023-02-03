@@ -1,0 +1,45 @@
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork7\obj\Debug\net7.0\HomeWork7.csproj.AssemblyReference.cache
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork7\obj\Debug\net7.0\HomeWork7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork7\obj\Debug\net7.0\HomeWork7.AssemblyInfoInputs.cache
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork7\obj\Debug\net7.0\HomeWork7.AssemblyInfo.cs
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork7\obj\Debug\net7.0\HomeWork7.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork7\bin\Debug\net7.0\HomeWork7.exe
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork7\bin\Debug\net7.0\HomeWork7.deps.json
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork7\bin\Debug\net7.0\HomeWork7.runtimeconfig.json
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork7\bin\Debug\net7.0\HomeWork7.dll
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork7\bin\Debug\net7.0\HomeWork7.pdb
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork7\obj\Debug\net7.0\HomeWork7.dll
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork7\obj\Debug\net7.0\refint\HomeWork7.dll
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork7\obj\Debug\net7.0\HomeWork7.pdb
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork7\obj\Debug\net7.0\HomeWork7.genruntimeconfig.cache
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork7\obj\Debug\net7.0\ref\HomeWork7.dll
+C:\Users\username\Desktop\Geek Brains\HomeWork7\bin\Debug\net7.0\HomeWork7.exe
+C:\Users\username\Desktop\Geek Brains\HomeWork7\bin\Debug\net7.0\HomeWork7.deps.json
+C:\Users\username\Desktop\Geek Brains\HomeWork7\bin\Debug\net7.0\HomeWork7.runtimeconfig.json
+C:\Users\username\Desktop\Geek Brains\HomeWork7\bin\Debug\net7.0\HomeWork7.dll
+C:\Users\username\Desktop\Geek Brains\HomeWork7\bin\Debug\net7.0\HomeWork7.pdb
+C:\Users\username\Desktop\Geek Brains\HomeWork7\obj\Debug\net7.0\HomeWork7.csproj.AssemblyReference.cache
+C:\Users\username\Desktop\Geek Brains\HomeWork7\obj\Debug\net7.0\HomeWork7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\username\Desktop\Geek Brains\HomeWork7\obj\Debug\net7.0\HomeWork7.AssemblyInfoInputs.cache
+C:\Users\username\Desktop\Geek Brains\HomeWork7\obj\Debug\net7.0\HomeWork7.AssemblyInfo.cs
+C:\Users\username\Desktop\Geek Brains\HomeWork7\obj\Debug\net7.0\HomeWork7.csproj.CoreCompileInputs.cache
+C:\Users\username\Desktop\Geek Brains\HomeWork7\obj\Debug\net7.0\HomeWork7.dll
+C:\Users\username\Desktop\Geek Brains\HomeWork7\obj\Debug\net7.0\refint\HomeWork7.dll
+C:\Users\username\Desktop\Geek Brains\HomeWork7\obj\Debug\net7.0\HomeWork7.pdb
+C:\Users\username\Desktop\Geek Brains\HomeWork7\obj\Debug\net7.0\HomeWork7.genruntimeconfig.cache
+C:\Users\username\Desktop\Geek Brains\HomeWork7\obj\Debug\net7.0\ref\HomeWork7.dll
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork71\HomeWork71\bin\Debug\net7.0\HomeWork7.exe
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork71\HomeWork71\bin\Debug\net7.0\HomeWork7.deps.json
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork71\HomeWork71\bin\Debug\net7.0\HomeWork7.runtimeconfig.json
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork71\HomeWork71\bin\Debug\net7.0\HomeWork7.dll
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork71\HomeWork71\bin\Debug\net7.0\HomeWork7.pdb
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork71\HomeWork71\obj\Debug\net7.0\HomeWork7.csproj.AssemblyReference.cache
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork71\HomeWork71\obj\Debug\net7.0\HomeWork7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork71\HomeWork71\obj\Debug\net7.0\HomeWork7.AssemblyInfoInputs.cache
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork71\HomeWork71\obj\Debug\net7.0\HomeWork7.AssemblyInfo.cs
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork71\HomeWork71\obj\Debug\net7.0\HomeWork7.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork71\HomeWork71\obj\Debug\net7.0\HomeWork7.dll
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork71\HomeWork71\obj\Debug\net7.0\refint\HomeWork7.dll
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork71\HomeWork71\obj\Debug\net7.0\HomeWork7.pdb
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork71\HomeWork71\obj\Debug\net7.0\HomeWork7.genruntimeconfig.cache
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork71\HomeWork71\obj\Debug\net7.0\ref\HomeWork7.dll
