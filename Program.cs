@@ -119,7 +119,6 @@ for (int j = 0; j < numbers.GetLength(1); j++)
           avarage = avarage / n;
           Console.Write($"{avarage + "; ":f1}");
 } 
-// Console.Write($"{inArray[i, j]:f1}");
 Console.WriteLine();
 PrintArray(numbers);
 
